@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maze", "PeopleNet\Maze.csproj", "{646EF914-4CFB-45D8-8B5F-DA25A6E8D629}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleNet", "PeopleNet\PeopleNet.csproj", "{646EF914-4CFB-45D8-8B5F-DA25A6E8D629}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
