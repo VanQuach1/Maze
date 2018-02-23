@@ -1,0 +1,11 @@
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\Maze.deps.json
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\Maze.runtimeconfig.json
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\Maze.runtimeconfig.dev.json
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\Maze.dll
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\Maze.pdb
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\Maze.csprojResolveAssemblyReference.cache
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\Maze.csproj.CoreCompileInputs.cache
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\Maze.AssemblyInfoInputs.cache
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\Maze.AssemblyInfo.cs
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\Maze.dll
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\Maze.pdb
